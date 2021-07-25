@@ -3,12 +3,12 @@
 I live in Denizli. I have been working as a Front End Developer for 1 year.  I know the technologies are javascript,jquey, Html and CSS  .
 I’m currently learning React.js.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emkc20)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emkc20&count_private=true)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emkc20&show_icons=true)
 
 
 
