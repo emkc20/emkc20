@@ -1,7 +1,8 @@
 ### Hi, I'm Mustafa İlhan Emekci 👋
 
-I live in Denizli. I have been working as a Front End Developer for 1 year.  I know the technologies are javascript,jquey, Html and CSS  .
-I’m currently learning React.js.
+I am a dedicated frontend developer specializing in HTML, CSS (including SCSS, Tailwind, and Bootstrap), and JavaScript (with expertise in Vue.js, Nuxt.js, React.js, and Next.js). My experience includes contributing to large-scale corporate projects, where I have honed my skills and demonstrated my ability to tackle complex challenges.
+
+I take a collaborative and solution-oriented approach to teamwork, always striving to achieve the best results. Committed to continuous learning and professional growth, I am passionate about improving my skills and staying updated with the latest industry trends.
 
 
 
